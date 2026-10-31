@@ -10,8 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/PordoTech/pordo/blob/main/docs/guide.md">使用指南</a> •
-  <a href="https://github.com/PordoTech/pordo/releases">下载</a> •
+  <a href="https://pordotech.github.io/">官方网站</a> •
+  <a href="https://pordotech.github.io/download/">下载</a> •
+  <a href="https://pordotech.github.io/docs/">使用文档</a> •
   <a href="https://github.com/PordoTech/remdia">remdia SDK</a>
 </p>
 
